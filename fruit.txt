@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 mango
 cherry
 picking
 merging
+||||||| 6af68d6
+=======
+mango 
+picking 
+1234
+345454
+>>>>>>> feature2
